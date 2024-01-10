@@ -1,0 +1,2 @@
+      delete root;
+      return nullptr;
