@@ -1,4 +1,4 @@
 # CPP_PetShelter
   A functioning Binary Search Tree which contains most functions expressed in its ADT. Allowing for balance checks, size checks on levels, as well as on the whole tree. It also has removal, insertion, and search of animal pets contained by each node. It has in-order, post-order, and pre-order traversals as well and can find its parent. The main focus of this assignment is to display firm knowledge of the data type and its interface and how it can be implemented and how its invariants associated with its data type are handled in varying functions. This assignment also teaches about public interfaces to private member-tampering functions. This also greatly helped my understanding of unit tests and how to properly maintain and analyze personal code for errors and "silent" bugs.
   
-![2024-01-1018-15-18_4-ezgif com-optimize](https://github.com/Kingerthanu/CPP_PetShelter/assets/76754592/6bc64bc3-3449-41eb-9e0c-b34cddab2c59)
+![2024-01-1020-02-10-ezgif com-censor](https://github.com/Kingerthanu/CPP_PetShelter/assets/76754592/bebe7303-829b-47a0-9381-b509d1f46520)
