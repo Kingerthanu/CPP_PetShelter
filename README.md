@@ -1,5 +1,5 @@
 # CPP_PetShelter
-  A functioning Binary Search Tree which contains most functions expressed in its ADT. Allowing for balance checks, size checks on levels, as well as on the whole tree. It also has removal, insertion, and search of animal pets contained by each node. It has in-order, post-order, and pre-order traversals as well and can find its parent. 
+  A functioning Binary Search Tree which contains most functions expressed in its ADT. Allowing for balance checks, size checks on levels, as well as on the whole tree. It also has removal, insertion, and search of animal pets contained by each node. It has in-order, post-order, and pre-order traversals as well and can find its parent node. 
   
   <img src="https://github.com/Kingerthanu/CPP_PetShelter/assets/76754592/21b89786-c687-49d0-9e1a-42e8c73b95ed" alt="Cornstarch <3" width="95" height="119">
 
