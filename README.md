@@ -1,5 +1,6 @@
 # CPP_PetShelter
   A functioning Binary Search Tree which contains most functions expressed in its ADT. Allowing for balance checks, size checks on levels, as well as on the whole tree. It also has removal, insertion, and search of animal pets contained by each node. It has in-order, post-order, and pre-order traversals as well and can find its parent node. 
+  
 This Program Utilizes Custom Made Prioirity Queues In Which Show The Latest Adoptee Pets In The Shelter As Well As Gives Us The Ability To Add New Pets To The Shelter. This Works To Make A Useful Object In Which Can Utilize Animal Data To Display To The User Preferred Data Like Newest, Youngest, Etc.
   
   <img src="https://github.com/Kingerthanu/CPP_PetShelter/assets/76754592/21b89786-c687-49d0-9e1a-42e8c73b95ed" alt="Cornstarch <3" width="95" height="119">
