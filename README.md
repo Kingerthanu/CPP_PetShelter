@@ -11,7 +11,9 @@
 
 This Program Works With C++ And Our Terminal For User Input In A Priority Queue Data Structure.
 
-This Program Utilizes Custom Made Prioirity Queues In Which Show The Latest Adoptee Pets In The Shelter As Well As Gives Us The Ability To Add New Pets To The Shelter. This Works To Make A Useful Object In Which Can Utilize Animal Data To Display To The User Preferred Data Like Newest, Youngest, Etc.
+This Program Utilizes Custom Made Prioirity Queues In Which Show The Latest Adoptee Pets In The Shelter As Well As Gives Us The Ability To Add New Pets To The Shelter. This Works To Make A Useful Object In Which Can Utilize Animal Data To Display To The User Preferred Data Like Newest, Youngest As Well As Supplying Extensive Utility For Binary Search Trees WIth Count Height Of The Tree, Getting THe Balance Of The Tree, Getting Sucessor Of A Node As Well As Its Parent, And Many Others. We Also Have Inorder, Preorder, And Postorder Traversals Of A BST Implemented As Well.
+
+Using A External Driver We Use The Pet Shelters BST To Adopt Pets, And Catagorize Them By Age Groups As Well As Other Defining Traits In Which We Can Outline To The BST.
 
   The main focus of this assignment is to display firm knowledge of the data type and its interface and how it can be implemented and how its invariants associated with its data type are handled in varying functions. This assignment also teaches about public interfaces to private member-tampering functions. This also greatly helped my understanding of unit tests and how to properly maintain and analyze personal code for errors and "silent" bugs.
 
