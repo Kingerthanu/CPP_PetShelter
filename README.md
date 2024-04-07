@@ -22,7 +22,7 @@ This Program Utilizes Custom Made Prioirity Queues In Which Show The Latest Adop
 
 ----------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_PetShelter/assets/76754592/d297ff8f-710d-4032-82b3-bf029f3fb18b" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_PetShelter/assets/76754592/d297ff8f-710d-4032-82b3-bf029f3fb18b" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_PetShelter/assets/76754592/d297ff8f-710d-4032-82b3-bf029f3fb18b" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_PetShelter/assets/76754592/d297ff8f-710d-4032-82b3-bf029f3fb18b" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_PetShelter/assets/76754592/d297ff8f-710d-4032-82b3-bf029f3fb18b" alt="Cornstarch <3" width="55" height="59"> <img src="https://github.com/Kingerthanu/CPP_PetShelter/assets/76754592/d297ff8f-710d-4032-82b3-bf029f3fb18b" alt="Cornstarch <3" width="75" height="59"> <img src="https://github.com/Kingerthanu/CPP_PetShelter/assets/76754592/d297ff8f-710d-4032-82b3-bf029f3fb18b" alt="Cornstarch <3" width="75" height="59"> <img src="https://github.com/Kingerthanu/CPP_PetShelter/assets/76754592/d297ff8f-710d-4032-82b3-bf029f3fb18b" alt="Cornstarch <3" width="75" height="59">
 
 
 **Features:**
